@@ -60,7 +60,7 @@ main {
 
 h2,
 p,
-h3 {
+h4 {
   padding: 1rem;
 }
 
@@ -70,6 +70,6 @@ ol {
 }
 
 h2,
-h3 {
+h4 {
   font-weight: bold;
 }
